@@ -1,0 +1,12 @@
+OmniStack 7.0:
+	- yarn ;
+	- express;
+	- nodemon --dev;
+	- mongodb (mongodb atlas);
+	- mongoose (with mongodb string connection)
+		Example: mongodb+srv://rvbonfimm:<password>@mongodbtestcluster-ebeim.mongodb.net/test?retryWrites=true&w=majority (extracted from (mongodb atlas Connect cluster option)
+	- imsomnia for API tests;
+	- multer - file handle;
+	- sharp (image rendering);
+	- cors;
+	- socket.io (protocol web socket)
